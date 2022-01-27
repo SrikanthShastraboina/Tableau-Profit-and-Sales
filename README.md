@@ -2,6 +2,9 @@
 SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer and import it to MySQL workbench.
 
 
+![alt text](
+https://github.com/SrikanthShastraboina/Tableau-Profit-and-Sales/blob/main/Dashboard%20-%20Profits%20and%20Sales.png "Logo Title Text 1")
+
 ## Data Analysis Using SQL
 
 1. Show all customer records
